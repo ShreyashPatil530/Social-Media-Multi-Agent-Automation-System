@@ -1,0 +1,15 @@
+# FREE VERSION - No Paid APIs Required!
+
+# Core Data Processing (FREE)
+pandas==2.1.4
+numpy==1.26.3
+openpyxl==3.1.2
+
+# Date/Time handling (FREE)
+python-dateutil==2.8.2
+
+# Optional: If you want to add social media posting later
+# tweepy==4.14.0
+# instagrapi==2.0.0
+
+# That's it! No expensive API keys needed.

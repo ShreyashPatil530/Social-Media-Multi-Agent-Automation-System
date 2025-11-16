@@ -1,0 +1,64 @@
+{
+  "overview": {
+    "total_posts": 32,
+    "platform_distribution": {
+      "Twitter": 21,
+      "Instagram": 7,
+      "LinkedIn": 4
+    },
+    "date_range": "2025-11-17 to 2025-12-15"
+  },
+  "predictions": {
+    "Twitter": {
+      "avg_impressions": "2,000 - 5,000",
+      "avg_engagement_rate": "2.5% - 4%",
+      "expected_likes": "50 - 150",
+      "expected_retweets": "10 - 30",
+      "expected_replies": "5 - 15",
+      "follower_growth": "50 - 100 per month"
+    },
+    "LinkedIn": {
+      "avg_impressions": "3,000 - 8,000",
+      "avg_engagement_rate": "3% - 5%",
+      "expected_likes": "100 - 300",
+      "expected_comments": "10 - 30",
+      "expected_shares": "5 - 20",
+      "follower_growth": "100 - 200 per month"
+    },
+    "Instagram": {
+      "avg_impressions": "5,000 - 15,000",
+      "avg_engagement_rate": "4% - 6%",
+      "expected_likes": "200 - 600",
+      "expected_comments": "20 - 50",
+      "expected_shares": "10 - 30",
+      "follower_growth": "150 - 300 per month"
+    }
+  },
+  "kpis": {
+    "Engagement Rate": "Total Engagements / Total Impressions \u00d7 100",
+    "Reach Growth": "Monthly increase in unique accounts reached",
+    "Follower Growth Rate": "New Followers / Total Followers \u00d7 100",
+    "Click-Through Rate": "Total Clicks / Total Impressions \u00d7 100",
+    "Content Performance Score": "Weighted average of all engagement metrics"
+  },
+  "monitoring_schedule": {
+    "Daily": [
+      "Check post performance",
+      "Respond to comments",
+      "Monitor mentions",
+      "Track trending hashtags"
+    ],
+    "Weekly": [
+      "Analyze top performing posts",
+      "Review engagement trends",
+      "Adjust content strategy",
+      "Competitor analysis"
+    ],
+    "Monthly": [
+      "Comprehensive performance report",
+      "ROI analysis",
+      "Audience insights",
+      "Strategy optimization"
+    ]
+  }
+}
